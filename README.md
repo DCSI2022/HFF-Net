@@ -1,1 +1,3 @@
 # HFF-Net
+## HFF-Net: An Efficient Hierarchical Feature Fusion Network for High-Quality Depth Completion
+### Accurate and efficient depth completion from a given sparse depth map and the corresponding RGB image has been one of the challenging tasks in the fields of photogrammetry and computer vision. In our work, we propose a robust hierarchical depth completion network architecture named HFF-Net, which incorporates the cross-scale feature fusion module and multi-level spatial propagation network module to achieve the state-of-the-art depth completion results (as shown in Fig. 1), and HFF-Net outperforms all the published methods on KITTI depth completion dataset when submitted on 12 October, 2023.
